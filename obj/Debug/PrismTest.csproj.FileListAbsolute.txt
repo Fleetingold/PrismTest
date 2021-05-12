@@ -1,0 +1,14 @@
+F:\SourceCode\PrismTest\bin\Debug\PrismTest.exe.config
+F:\SourceCode\PrismTest\bin\Debug\PrismTest.exe
+F:\SourceCode\PrismTest\bin\Debug\PrismTest.pdb
+F:\SourceCode\PrismTest\obj\Debug\Views\MainWindow.g.cs
+F:\SourceCode\PrismTest\obj\Debug\App.g.cs
+F:\SourceCode\PrismTest\obj\Debug\PrismTest_MarkupCompile.cache
+F:\SourceCode\PrismTest\obj\Debug\PrismTest_MarkupCompile.lref
+F:\SourceCode\PrismTest\obj\Debug\Views\MainWindow.baml
+F:\SourceCode\PrismTest\obj\Debug\PrismTest.g.resources
+F:\SourceCode\PrismTest\obj\Debug\PrismTest.Properties.Resources.resources
+F:\SourceCode\PrismTest\obj\Debug\PrismTest.csproj.GenerateResource.cache
+F:\SourceCode\PrismTest\obj\Debug\PrismTest.csproj.CoreCompileInputs.cache
+F:\SourceCode\PrismTest\obj\Debug\PrismTest.exe
+F:\SourceCode\PrismTest\obj\Debug\PrismTest.pdb
