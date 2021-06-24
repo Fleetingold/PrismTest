@@ -113,11 +113,23 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Actions\" />
+    <Folder Include="Attributes\" />
     <Folder Include="Behaviors\" />
     <Folder Include="Converters\" />
+    <Folder Include="Enums\" />
+    <Folder Include="Events\" />
+    <Folder Include="Exceptions\" />
+    <Folder Include="Extentions\" />
+    <Folder Include="Images\" />
+    <Folder Include="Interfaces\" />
     <Folder Include="Models\" />
+    <Folder Include="Modular\" />
+    <Folder Include="ObjectBuilder\" />
+    <Folder Include="PrismLog\" />
+    <Folder Include="Regions\" />
     <Folder Include="Services\" />
     <Folder Include="Styles\" />
+    <Folder Include="Utilities\" />
     <Folder Include="ViewModels\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
