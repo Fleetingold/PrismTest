@@ -29,13 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreContracts", "Server\Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogContracts", "Server\Contract\Contracts\LogContracts\LogContracts.csproj", "{A62D5749-8E4A-4541-94E7-F726BF18431E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreRpc", "Server\Rpc\Rpcs\CoreRpc\CoreRpc.csproj", "{D7497B65-ABC2-4808-B7A6-1D49C4BAE313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreRpc", "Server\Rpc\Rpcs\CoreRpc\CoreRpc.csproj", "{D7497B65-ABC2-4808-B7A6-1D49C4BAE313}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheRpc", "Server\Rpc\Rpcs\CacheRpc\CacheRpc.csproj", "{EFA434FA-6D70-4FA6-A01C-272CCCE5D5F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CacheRpc", "Server\Rpc\Rpcs\CacheRpc\CacheRpc.csproj", "{EFA434FA-6D70-4FA6-A01C-272CCCE5D5F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogRpc", "Server\Rpc\Rpcs\LogRpc\LogRpc.csproj", "{B21217DF-A999-4741-8994-C586F64CC034}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogRpc", "Server\Rpc\Rpcs\LogRpc\LogRpc.csproj", "{B21217DF-A999-4741-8994-C586F64CC034}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateRpc", "Server\Rpc\Rpcs\UltimateRpc\UltimateRpc.csproj", "{607D356A-567A-4DAE-B9B6-8204F67DBED1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UltimateRpc", "Server\Rpc\Rpcs\UltimateRpc\UltimateRpc.csproj", "{607D356A-567A-4DAE-B9B6-8204F67DBED1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UltimateContracts", "Server\Contract\Contracts\UltimateContracts\UltimateContracts.csproj", "{21C583B1-7EC8-4D2C-9C91-6B0F6CA15FEF}"
 EndProject
@@ -116,7 +116,7 @@ Global
 		{21C583B1-7EC8-4D2C-9C91-6B0F6CA15FEF} = {66F718BE-723F-4251-8E0B-5BBE86ECB826}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		VisualSVNWorkingCopyRoot = .
 		SolutionGuid = {0FA408FC-54F9-4306-BB83-51F69A230202}
+		VisualSVNWorkingCopyRoot = .
 	EndGlobalSection
 EndGlobal
